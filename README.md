@@ -2,10 +2,6 @@
 
 Judge-Agent is a Python project for **automated judging / scoring** of generated outputs (LLM answers, extracted data, summaries, classifications, etc.) using a **rubric** and returning a **structured verdict** (score + reasons). It’s intended for repeatable evaluation in local runs or in automation (batch jobs / CI).
 
-> This README is a draft template. Share your actual package layout (or let me inspect the repo) and I’ll tailor the commands and examples to match your code exactly.
-
----
-
 ## Features
 
 - Rubric-based evaluation (pass/fail and/or numeric score)
